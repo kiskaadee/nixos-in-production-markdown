@@ -37,6 +37,7 @@ This repository provides an **ordered, reader-friendly Markdown edition** design
 
 The chapters below are organized in their intended reading order:
 
+0. [00. Frontmatter](chapters/00-frontmatter.md) — Original publication metadata, license, and author details.
 1. [01. Introduction](chapters/01-introduction.md) — Scope, target audience, and philosophy.
 2. [02. Motivation](chapters/02-motivation.md) — Why NixOS in production: reproducibility, declarative configuration, and eliminating state drift.
 3. [03. The Big Picture](chapters/03-big-picture.md) — High-level architecture and how NixOS machines are built and deployed.
