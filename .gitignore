@@ -1,0 +1,4 @@
+# Editor & Vault settings
+.obsidian/
+.direnv/
+.DS_Store
